@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<pokemon generation="0" pokedexNumber="9999" classification="glitch Pokémon">
+	<name>Huskichu</name>
+	<type>Moon</type>
+	<type>Sun</type>
+	<hp>1000</hp>
+	<attack>206</attack>
+	<defense>206</defense>
+	<speed>206</speed>
+	<sp_attack>206</sp_attack>
+	<sp_defense>206</sp_defense>
+	<height>
+		<m>20.6</m>
+	</height>
+	<weight>
+		<kg>20.6</kg>
+	</weight>
+	<abilities>
+		<ability>Bark</ability>
+		<ability>scratch</ability>
+        <ability>CyberBeam</ability>
+	</abilities>
+</pokemon>
